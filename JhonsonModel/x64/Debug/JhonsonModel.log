@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+C:\Users\Ryan\source\repos\JhonsonModel\JhonsonModel\MyForm.cpp(32,45): warning C4353: нестандартное расширение: константа 0 в качестве выражения функции.  Следует заменить на подставляемую функцию "__noop"
+C:\Users\Ryan\source\repos\JhonsonModel\JhonsonModel\MyForm.cpp(38,45): warning C4353: нестандартное расширение: константа 0 в качестве выражения функции.  Следует заменить на подставляемую функцию "__noop"
+C:\Users\Ryan\source\repos\JhonsonModel\JhonsonModel\MyForm.cpp(44,45): warning C4353: нестандартное расширение: константа 0 в качестве выражения функции.  Следует заменить на подставляемую функцию "__noop"
+C:\Users\Ryan\source\repos\JhonsonModel\JhonsonModel\MyForm.cpp(51,46): warning C4353: нестандартное расширение: константа 0 в качестве выражения функции.  Следует заменить на подставляемую функцию "__noop"
+C:\Users\Ryan\source\repos\JhonsonModel\JhonsonModel\MyForm.cpp(71,27): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Ryan\source\repos\JhonsonModel\JhonsonModel\MyForm.cpp(194,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Ryan\source\repos\JhonsonModel\JhonsonModel\MyForm.cpp(263,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  JhonsonModel.vcxproj -> C:\Users\Ryan\source\repos\JhonsonModel\x64\Debug\JhonsonModel.exe

@@ -1,0 +1,3 @@
+C:\Users\Ryan\source\repos\JhonsonModel\JhonsonModel\x64\Debug\JhonsonModel.vcxproj.AssemblyReference.cache
+C:\Users\Ryan\source\repos\JhonsonModel\JhonsonModel\x64\Debug\JhonsonModel.MyForm.resources
+C:\Users\Ryan\source\repos\JhonsonModel\JhonsonModel\x64\Debug\JhonsonModel.vcxproj.GenerateResource.cache
